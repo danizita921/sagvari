@@ -2,25 +2,25 @@ body {
     user-select: none;
     text-align: center;
     background-color: rgb(15, 230, 201);
-    color: rgb(255, 255, 255);
+    color: rgb(55, 194, 182);
     text-shadow: 1px 1px 3px rgb(23, 20, 20);
 }
 td.o {
     width: 15px;
     height: 15px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(49, 216, 202);
     box-shadow: 1px 1px 4px inset black;
     border-radius: 2px;
     text-align: center;
     font-size: 10px;
-    color: rgb(248, 246, 201);
+    color: rgb(30, 177, 157);
 }
 td.p {
     box-shadow: 1px 1px 4px inset black;
     border-radius: 2px;
     text-align: center;
     font-size: 10px;
-    color: rgb(248, 246, 201);
+    color: rgb(31, 218, 202);
     height: 20px;
 }
 td.p1 { background-color: green }
@@ -31,14 +31,14 @@ table.main {
     margin: auto;
     padding: 6px;
     border-spacing: 0px;
-    background-color: azure;
+    background-color: rgb(29, 187, 187);
     border-radius: 7px;
     box-shadow: 1px 1px 4px black;
 }
 table.m2 {
     margin: 5px auto;
     border-radius: 7px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(34, 238, 228);
     box-shadow: 1px 1px 7px black;
     padding: 4px;
 }
@@ -64,5 +64,6 @@ div#psz {
     border-radius: 10px;
     box-shadow: 1px 1px 4px inset black;
     background-color: rgb(201, 241, 241);
-    color: rgb(116, 116, 220);
+    color: rgb(246, 246, 255);
+}
 }
